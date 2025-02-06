@@ -2,14 +2,14 @@
 https://surge.tel/08/2930/
 
 搭建后期 升级脚本
+
 使用说明：
 将脚本保存为 upgrade_substore.sh
 
 赋予执行权限：
-
 chmod +x upgrade_substore.sh
-一键执行：
 
+一键执行：
 ./upgrade_substore.sh
 
 脚本特点：
